@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Alan1455</h2>
+<h2 align="left">Hi 👋! Im Alan1455</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://cdn.discordapp.com/attachments/1150137977880715326/1305181504065900544/reset_114514.jpg?ex=675eeb7f&is=675d99ff&hm=daf2c834e420a9c6f01499fd83f52c13993dd174384723fb1d75321f14ec5645&"/>
 
 ###
 
