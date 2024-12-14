@@ -106,6 +106,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Alan1455/Alan1455/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/maurodesouza/profile-readme-generator/blob/main/public/assets/snake.svg" alt="Snake animation" />
 
 ###
