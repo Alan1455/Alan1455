@@ -2,13 +2,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alan1455&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alan1455&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <img align="right" height="150" src="https://cdn.discordapp.com/attachments/1150137977880715326/1305181504065900544/reset_114514.jpg?ex=675eeb7f&is=675d99ff&hm=daf2c834e420a9c6f01499fd83f52c13993dd174384723fb1d75321f14ec5645&"/>
 
 ###
